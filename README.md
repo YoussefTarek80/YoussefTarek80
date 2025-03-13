@@ -17,7 +17,7 @@
       <li>💻 I'm a <strong>Fullstack Developer</strong> and <strong>Software Engineering graduate</strong></li>
       <li>🔍 Seeking to become an <strong>Expert in Software Engineering & Fullstack Development</strong></li>
       <li>🎯 Strong problem-solving skills with a keen eye for detail</li>
-      <li>👨‍💻 Check out my projects: <a href="resume-sand-mu.vercel.app" target="_blank"><strong>Portfolio</strong></a></li>
+      <li>👨‍💻 Check out my projects: <a href="[resume-sand-mu.vercel.app](https://resume-sand-mu.vercel.app/)" target="_blank"><strong>Portfolio</strong></a></li>
       <li>📫 Reach me at <strong>youssef.tarek1090@gmail.com</strong></li>
     </ul>
   </div>

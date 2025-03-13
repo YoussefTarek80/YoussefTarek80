@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Tarek</h1>
 <h3 align="center">A Passionate Fullstack Developer & Software Engineer</h3>
 
-<p align="left">
+<p align="right">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding GIF">
 </p>
 

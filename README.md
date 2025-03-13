@@ -78,11 +78,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseftarek80&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousseftarek80&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 ---
 
 ⭐ **Fun Fact:** "Coding is like humor—if you have to explain it, it’s bad." 😆  

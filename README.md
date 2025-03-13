@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y9eb7ozj8l0su2tvfyuk2malwaywvqnxc97h8k1w&rid=giphy.gif&ct=g" width="400" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" alt="Coding GIF">
 </p>
 
 <p align="center">

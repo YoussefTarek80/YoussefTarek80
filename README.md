@@ -6,16 +6,22 @@
 </p>
 
 ---
-##🚀 About Me
-- 💻 I'm a **Fullstack Developer** and **Software Engineering graduated**
-- 🔍 Seeking to become an **Expert in Software Engineering & Fullstack Development**
-- 🎯 Strong problem-solving skills with a keen eye for detail
-- 👨‍💻 Check out my projects: **[Portfolio](https://yousseftarek80.github.io/)**
-- 📫 Reach me at **youssef.tarek1090@gmail.com**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h2>🚀 About Me</h2>
+    <ul>
+      <li>💻 I'm a <strong>Fullstack Developer</strong> and <strong>Software Engineering graduate</strong></li>
+      <li>🔍 Seeking to become an <strong>Expert in Software Engineering & Fullstack Development</strong></li>
+      <li>🎯 Strong problem-solving skills with a keen eye for detail</li>
+      <li>👨‍💻 Check out my projects: <a href="https://yousseftarek80.github.io/" target="_blank"><strong>Portfolio</strong></a></li>
+      <li>📫 Reach me at <strong>youssef.tarek1090@gmail.com</strong></li>
+    </ul>
+  </div>
 
-<p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding GIF">
-</p>
+  <div>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding GIF">
+  </div>
+</div>
 
 
 <h2>🌍 Connect with Me</h2>

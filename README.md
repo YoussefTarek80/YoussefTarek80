@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y9eb7ozj8l0su2tvfyuk2malwaywvqnxc97h8k1w&rid=giphy.gif&ct=g" width="1000" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y9eb7ozj8l0su2tvfyuk2malwaywvqnxc97h8k1w&rid=giphy.gif&ct=g" width="400" alt="Coding GIF">
 </p>
 
 <p align="center">
@@ -58,9 +58,6 @@
   </a>
   <a href="https://pinia.vuejs.org/" target="_blank">
     <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/>
-  </a>
-  <a href="https://vuex.vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuex/vuex-original.svg" alt="Vuex" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>

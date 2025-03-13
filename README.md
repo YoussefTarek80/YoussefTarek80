@@ -6,8 +6,9 @@
 </p>
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<div style="display: flex; justify-content: flex-end; align-items: flex-start; gap: 20px;">
+  <!-- About Me Section (Left) -->
+  <div style="max-width: 60%;">
     <h2>🚀 About Me</h2>
     <ul>
       <li>💻 I'm a <strong>Fullstack Developer</strong> and <strong>Software Engineering graduate</strong></li>
@@ -16,10 +17,9 @@
       <li>👨‍💻 Check out my projects: <a href="https://yousseftarek80.github.io/" target="_blank"><strong>Portfolio</strong></a></li>
       <li>📫 Reach me at <strong>youssef.tarek1090@gmail.com</strong></li>
     </ul>
-  </div>
-
-  <div>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200" alt="Coding GIF">
+    <div style="display: flex; justify-content: flex-end;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding GIF">
+    </div>
   </div>
 </div>
 

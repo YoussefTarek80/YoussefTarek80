@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Youssef Tarek</h1>
 <h3 align="center">A Passionate Fullstack Developer & Software Engineer</h3>
-
+  <div>
+    <img src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" width="400" alt="Coding GIF">
+  </div>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousseftarek80&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 <div style="display: flex; justify-content: flex-end; align-items: flex-start; gap: 20px;">
-  <!-- About Me Section (Left) -->
   <div style="max-width: 60%;">
     <h2>🚀 About Me</h2>
     <ul>
@@ -17,9 +18,6 @@
       <li>👨‍💻 Check out my projects: <a href="https://yousseftarek80.github.io/" target="_blank"><strong>Portfolio</strong></a></li>
       <li>📫 Reach me at <strong>youssef.tarek1090@gmail.com</strong></li>
     </ul>
-    <div style="display: flex; justify-content: flex-end;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding GIF">
-    </div>
   </div>
 </div>
 

@@ -1,25 +1,18 @@
 <h1 align="center">Hi 👋, I'm Youssef Tarek</h1>
 <h3 align="center">A Passionate Fullstack Developer & Software Engineer</h3>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>💻 I'm a <b>Fullstack Developer</b> and <b>Software Engineering graduate</b></li>
-      <li>🔍 Seeking to become an <b>Expert in Software Engineering & Fullstack Development</b></li>
-      <li>🎯 Strong problem-solving skills with a keen eye for detail</li>
-      <li>👨‍💻 Check out my projects: <a href="https://yousseftarek80.github.io/" target="_blank"><b>Portfolio</b></a></li>
-      <li>📫 Reach me at <b>youssef.tarek1090@gmail.com</b></li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="300" alt="Coding GIF">
-  </div>
-</div>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousseftarek80&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+### 🚀 About Me
+- 💻 I'm a **Fullstack Developer** and **Software Engineering graduated**
+- 🔍 Seeking to become an **Expert in Software Engineering & Fullstack Development**
+- 🎯 Strong problem-solving skills with a keen eye for detail
+- 👨‍💻 Check out my projects: **[Portfolio](https://yousseftarek80.github.io/)**
+- 📫 Reach me at **youssef.tarek1090@gmail.com**
 
 ### 🌍 Connect with Me:
 <p align="left">

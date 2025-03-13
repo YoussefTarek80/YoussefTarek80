@@ -6,7 +6,7 @@
 </p>
 
 ---
-<h2>🚀 About Me</h2>
+##🚀 About Me
 - 💻 I'm a **Fullstack Developer** and **Software Engineering graduated**
 - 🔍 Seeking to become an **Expert in Software Engineering & Fullstack Development**
 - 🎯 Strong problem-solving skills with a keen eye for detail

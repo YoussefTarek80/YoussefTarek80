@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Tarek</h1>
-<h3 align="center">A Passionate Frontend Developer & Software Engineer</h3>
+<h3 align="center">A Passionate Fullstack Developer & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y9eb7ozj8l0su2tvfyuk2malwaywvqnxc97h8k1w&rid=giphy.gif&ct=g" width="400" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y9eb7ozj8l0su2tvfyuk2malwaywvqnxc97h8k1w&rid=giphy.gif&ct=g" width="1000" alt="Coding GIF">
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 About Me
-- 💻 I'm a **Frontend Developer** and **Software Engineering Student**
-- 🔍 Seeking to become an **Expert in Software Engineering & Frontend Development**
+- 💻 I'm a **Fullstack Developer** and **Software Engineering graduated**
+- 🔍 Seeking to become an **Expert in Software Engineering & Fullstack Development**
 - 🎯 Strong problem-solving skills with a keen eye for detail
 - 👨‍💻 Check out my projects: **[Portfolio](https://yousseftarek80.github.io/)**
 - 📫 Reach me at **youssef.tarek1090@gmail.com**
@@ -36,6 +36,7 @@
 ---
 
 ### 🛠️ Languages & Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -52,6 +53,15 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
+  <a href="https://nuxt.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
+  </a>
+  <a href="https://pinia.vuejs.org/" target="_blank">
+    <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/>
+  </a>
+  <a href="https://vuex.vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuex/vuex-original.svg" alt="Vuex" width="40" height="40"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
@@ -66,6 +76,9 @@
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>

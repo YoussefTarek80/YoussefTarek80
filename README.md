@@ -13,6 +13,11 @@
 - 👨‍💻 Check out my projects: **[Portfolio](https://yousseftarek80.github.io/)**
 - 📫 Reach me at **youssef.tarek1090@gmail.com**
 
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzaGVwenZjYTRsYWl4cmQyd3BmNThvbHQ1bGd2bG8wMWN1MmRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Coding GIF">
+</p>
+
+
 <h2>🌍 Connect with Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/youssef-tarek-2a4567232/" target="_blank">

@@ -6,15 +6,14 @@
 </p>
 
 ---
-
-### 🚀 About Me
+<h2>🚀 About Me</h2>
 - 💻 I'm a **Fullstack Developer** and **Software Engineering graduated**
 - 🔍 Seeking to become an **Expert in Software Engineering & Fullstack Development**
 - 🎯 Strong problem-solving skills with a keen eye for detail
 - 👨‍💻 Check out my projects: **[Portfolio](https://yousseftarek80.github.io/)**
 - 📫 Reach me at **youssef.tarek1090@gmail.com**
 
-### 🌍 Connect with Me:
+<h2>🌍 Connect with Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/youssef-tarek-2a4567232/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -28,8 +27,6 @@
 </p>
 
 ---
-
-### 🛠️ Languages & Tools:
 <h2>🚀 Skills & Technologies</h2>
 
 ### 🖥️ Frontend Development
@@ -60,8 +57,7 @@
 
 
 ---
-
-### 📊 GitHub Stats:
+<h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousseftarek80&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
